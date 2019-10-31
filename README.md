@@ -4,3 +4,6 @@ Twitter doesn't have a science topic and I think that's bullshit.  I spend way t
 
 Therefore, I'm left with only one recourse - I must grab all the content twitter _would_ show me.  And then keep the content that is science related.  Then I can read it when and _if_ I want to and not feel the fear of missing out.
 
+Inspiration:
+
+https://github.com/ideoforms/python-twitter-examples
